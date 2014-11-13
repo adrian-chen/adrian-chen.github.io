@@ -1,0 +1,33 @@
+h1 {  
+  font-size: 50px;
+  font-weight: 900;
+  margin-top: 200px;
+  margin-bottom: 5px;
+}                 
+p {              
+  font-size: 16px;
+  font-weight: 800;
+}              
+body {        
+  color: #ececec;
+  text-align: center;
+}
+
+.background{ 
+  background-color:#22313F;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.layer{ 
+    position: relative;
+  background-color: rgba(0, 0, 0, 0.5);
+	background-repeat: repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.navbar{
+}
+.navbar{
+}
